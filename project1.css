@@ -459,14 +459,14 @@ nav label {
 }
 
 .about-image-2 img{
-   width: 251px;
+    width: 251px;
     height: 316px;
     object-fit: cover;
     clip-path: inset(8px 5px 40px 25px round 18px);
     border-radius: 10px;
     position: absolute;
-    left: 103px;
-    top: 107px;
+    left: 110px;
+    top: 104px;
 }
 .expreience{
     width: 100px;
